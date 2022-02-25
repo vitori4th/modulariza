@@ -23,9 +23,9 @@ Para rodar esse programa você precisa de um compilador C.
 **Clonando o Repositório**
 
 ```
-$ git clone git@github.com:Vitoria-th/Empilhamento-por-Macacos.git
+$ git clone git@github.com:Vitoria-th/Modularizacao.git
 
-$ cd Empilhamento-por-Macacos
+$ cd Modularizacao
 ```
 
 ### Rodando
